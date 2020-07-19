@@ -255,7 +255,7 @@
     <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" groups="qcom" remote="los" />
 
     <project path="halium/audioflingerglue" name="Halium/audioflingerglue" remote="hal" />
-    <project path="halium/devices" name="Halium/halium-devices" remote="hal" />
+    <project path="halium/devices" name="halium-mi5/halium-devices" remote="hal" revision="mi5" />
     <project path="halium/droidmedia" name="droidmedia" remote="sailfishos" revision="refs/tags/0.20190828.0" />
     <project path="halium/halium-boot" name="Halium/halium-boot" remote="hal" revision="master" />
     <project path="halium/hybris-boot" name="Halium/hybris-boot" remote="hal" revision="refs/heads/master" />
